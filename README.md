@@ -67,6 +67,7 @@ streamlit run app.py
 ```
 
 ---
+![image](https://github.com/user-attachments/assets/095164ee-09a8-41fb-bbac-062e0b83a8b1)
 
 
 ---
